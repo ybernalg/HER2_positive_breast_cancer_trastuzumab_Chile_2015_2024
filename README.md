@@ -8,7 +8,7 @@
 │  ├─ 01_prepare.R            # Read, rename, filters for HER2+, recodes & dictionaries
 │  ├─ 02_descriptives.R       # Tables & crude regional death proportions
 │  ├─ 03_models.R             # Logistic regression (uni/multivariable), McFadden’s R²
-│  └─  04_figures.R            # Forest plot, bar charts, choropleth map, alluvial flows
+│  └─ 04_figures.R            # Forest plot, bar charts, choropleth map, alluvial flows
 │  
 ├─ figures/                   # Exported plots (forest, map, bars, alluvial)
 ├─ outputs/                   # Final tables (OR, 95% CI, p), logs, saved objects
