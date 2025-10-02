@@ -13,4 +13,3 @@
 ├─ figures/                   # Exported plots (forest, map, bars, alluvial)
 ├─ outputs/                   # Final tables (OR, 95% CI, p), logs, saved objects
 ├─ README.md
-└─ LICENSE
